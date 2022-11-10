@@ -1,6 +1,6 @@
 {
-  "name": "bunyan-request-logger",
-  "version": "2.1.0",
+  "name": "@atlassian/bunyan-request-logger",
+  "version": "2.2.0",
   "description": "Automated request logging connect middleware for Express. Powered by Bunyan.",
   "main": "request-logger.js",
   "directories": {
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ericelliott/bunyan-request-logger.git"
+    "url": "https://github.com/paulandoman/bunyan-request-logger"
   },
   "keywords": [
     "logging",
